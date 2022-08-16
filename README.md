@@ -1,1 +1,4 @@
-# mau2022(CursoHTMLyCSS).github.io
+curso HTML y CSS de Open Bootcamp
+
+Ejercicio 1
+
